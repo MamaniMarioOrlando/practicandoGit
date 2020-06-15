@@ -6,3 +6,13 @@ let auto={
 
 }
 
+
+    mostrarVelocida: function()
+    {
+        console.log("la velocidad del auto es: "+this.velocidad);
+    }
+
+
+
+}
+auto.mostrarVelocida();
