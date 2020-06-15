@@ -1,6 +1,6 @@
 let auto={
     nombre:"ford",
     color:"rosa",
-    velocidad:"5"
+    velocidad:200
 
 }
